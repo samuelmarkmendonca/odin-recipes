@@ -1,0 +1,2 @@
+This is a beginner project and an introduction to webdev. I will be learning html css and javascript and this project is gonna keep track of my project. 
+Let this be a testament to my self that i can do it lmao.
